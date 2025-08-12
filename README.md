@@ -67,9 +67,9 @@ Built with advanced machine learning models and an interactive dashboard, it ena
 
 ---
 ## Ouput 
-![Dashboard](./output2.png)
-![ Key Factors Influencing Prediction](./output2.png)
-![Churn Trends Analysis](./output2.png)
+![Dashboard](./img/output01.png)
+![ Key Factors Influencing Prediction](./img/output02.png)
+![Churn Trends Analysis](./img/output03.png)
 
 ## 🗂️ Enhanced Dataset Features
 
